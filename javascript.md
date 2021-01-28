@@ -3162,6 +3162,9 @@ console.log(person.age);
 
 [Exercise 145](./exercises/js/ex_145.md)
 
+[Exercise 146](./exercises/js/ex_146.md)
+
+[Exercise 147](./exercises/js/ex_147.md)
 
 * We can access a property that doesn't exist on the object and get undefined as value
 
